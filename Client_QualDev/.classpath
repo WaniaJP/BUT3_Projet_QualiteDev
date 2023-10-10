@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/wania/OneDrive/Documents/BUT3_Projet_QualiteDev/Encodage.jar"/>
+	<classpathentry kind="lib" path="C:/Users/wania/OneDrive/Documents/BUT3_Projet_QualiteDev/Reception.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
